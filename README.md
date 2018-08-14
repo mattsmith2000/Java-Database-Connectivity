@@ -9,7 +9,7 @@ These classes were built around a hypothetical Equipment Database, using a 3 lay
   - Load Driver
   - Connect/Disconnect from Database
   - Execute prepared statements
-  - Start, end and rollback transactions
+  - Start, commit and rollback transactions
 
 - Equipment.java
   - Sends prepared statements to MySQLDatabase object
