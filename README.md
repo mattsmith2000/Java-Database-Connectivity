@@ -1,9 +1,9 @@
 # Java Database Class work
 
 These classes were built around a hypothetical Equipment Database, using a 3 layered architecture. 
-  1. Database/MySQLDatabase Layer- The database and classes that interface with it.
-  2. Data Layer (DL)- Classes that mirror tables in the database so information can be loaded and altered.  
-  3. Business Layer (BL)- An abstraction of data layer classes for simple "business" funcitons. 
+  1. Database Layer- The database and classes that interface with it.
+  2. Data Layer(DL)- Classes that mirror tables in the database so information can be loaded and altered.  
+  3. Business Layer(BL)- An abstraction of data layer classes for simple "business" funcitons. 
 
 - MySQLDatabase.java
   - Load Driver
